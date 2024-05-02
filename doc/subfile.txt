@@ -1,0 +1,1 @@
+This is a file within a doc directory, but it is not a "real" directory.
